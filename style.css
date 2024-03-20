@@ -6,7 +6,7 @@
 }
 :root {
   /* 168  */
-  --hue: 100;
+  --hue: 180;
   --primary: hsl(var(--hue), 76%, 36%);
   --primary-light: hsl(var(--hue), 76%, 56%);
   --primary-super-light: hsl(var(--hue), 36%, 95%);
